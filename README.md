@@ -51,7 +51,7 @@
 * [Scrums](https://docs.google.com/document/d/1c--8hUlpAmx_7Qbl26WEoOBE5Pznr2Gpnpzjcxpio8c/edit?usp=sharing)
 * [Sprint Demo and Retrospective](https://docs.google.com/document/d/1E4SazJaWlK4e9JSOk2pG5Ws0cx5-okeE57JeFhoYN5E/edit?usp=sharing)
 * [Video Demo](https://www.youtube.com/watch?v=ilTAJXecXbE)
-* [APK](https://drive.google.com/file/d/1I6cKu-DdDJ6kBG7sYGBUXnA4OZC6ZGEm/view?usp=sharing)
+* [APK](https://drive.google.com/file/d/1fr2DnBA8WQcctrgYpL6Hzr6ck5rXNSKS/view?usp=sharing)
 
 **Final presentation**
 
