@@ -56,6 +56,7 @@
 **Final presentation**
 
 **Poster**
+<img width="500" alt="PlayTrade Poster" src="hhttps://github.com/KaiyinCh/AndroidAppTemp/files/8599953/Trade.pdf">
 
 **Process description**
 
