@@ -54,9 +54,11 @@
 * [APK](https://drive.google.com/file/d/1fr2DnBA8WQcctrgYpL6Hzr6ck5rXNSKS/view?usp=sharing)
 
 **Final presentation**
+* [Presentation](https://docs.google.com/presentation/d/15FEFuZYMKsiQUlnTgAGa4-RWukkezg3HpL5C40Jlpis/edit?usp=sharing)
+* [Video Demo](https://www.youtube.com/watch?v=c5DiP1p4tww)
 
 **Poster**<br>
-<img width="500" alt="PlayTrade Poster" src="https://github.com/KaiyinCh/AndroidAppTemp/files/8599953/Trade.pdf">
+<img width="500" alt="PlayTrade Poster" src="https://user-images.githubusercontent.com/79156500/167277217-ef6aa780-b0a1-43aa-a1e4-4401d6f66e2a.png">
 
 **Process description**
 
@@ -67,4 +69,7 @@
 **Tools**<br>
 
 <a href="https://developer.android.com/studio/?gclid=CjwKCAjwiuuRBhBvEiwAFXKaNFRBC7ZjIlrH8syQ1Qc_jEvarHNX4Z1O7AQOQChbFqVLgCdzdGX_gBoCE_oQAvD_BwE&gclsrc=aw.ds"><img width="80" hight="80" alt="Android Studio App Logo" src="https://user-images.githubusercontent.com/79156500/159712493-a67ec624-3585-4bdb-8944-d97b3c155c96.jpeg"></a>&nbsp; &nbsp;<a href="https://github.com"><img width="80" hight="80" alt="GitHub Logo" src="https://user-images.githubusercontent.com/79156500/159713807-06fd77bf-9e89-44f5-b4f2-7a05e18e6910.png"></a>&nbsp; &nbsp;<a href="https://drive.google.com"><img width="80" hight="80" alt="Google Drive Logo" src="https://user-images.githubusercontent.com/79156500/159714202-044b55cd-3341-4963-bb48-39d91cb31be0.png"></a>&nbsp; &nbsp;<a href="canva.com"><img width="80" hight="80" alt="Canva Logo" src="https://user-images.githubusercontent.com/79156500/159715143-bacca580-925e-4140-baac-8e47ecb251cd.png"></a>&nbsp; &nbsp;<a href="https://app.diagrams.net"><img width="80" hight="80" alt="draw.io logo" src="https://user-images.githubusercontent.com/79156500/159715378-960091bc-56a3-40d9-ae8f-6b811fea9eae.png"></a>&nbsp; &nbsp;<a href="https://firebase.google.com"><img width="80" hight="80" alt="firebase logo" src="https://user-images.githubusercontent.com/79156500/163731230-2adc60da-f101-4bc7-8225-80e1357db646.jpg"></a>
+
+
+
 
